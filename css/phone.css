@@ -1,0 +1,14 @@
+#body{
+    background-color: rgb(228, 174, 94);
+}
+#home{
+
+}
+#deals{
+    /* overflow: hidden; */
+
+    /* flex-flow: row-reverse wrap; */
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+}
